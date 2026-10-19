@@ -58,8 +58,8 @@ Developed a proposed control plan incorporating performance targets, monitoring 
 
 ## Project Deliverables
 
-- **DMAIC Report:** `report/LSSBB_DMAIC_Capstone_Report.pdf`
-- **Excel Analysis:** `analysis/LSSBB_DMAIC_Analysis.xlsx`
+- **DMAIC Report:** `LSSBB_DMAIC_Capstone_Report.pdf`
+- **Excel Analysis:** 'LSSBB_DMAIC_GitHub_Analysis.xlsx'
 - **Source Dataset:** DataCo Smart Supply Chain, available through Kaggle.
 
 ## Limitations
